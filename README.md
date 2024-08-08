@@ -42,7 +42,6 @@ curl -sSf "https://cdn.rei.my.id/proxy/pSOCKS5" -o socks5.txt
 ```
 ### Country results
 #### Replace {countryCode} with country code of your choice based on [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)
-### HTTP(S)
 ```
 # HTTP
 curl -sSf "https://cdn.rei.my.id/proxy/HTTP{countryCode}" -o http.txt
