@@ -1,7 +1,7 @@
 <p align='center'>
 <img src='https://i.ibb.co/YLQtsJY/yakumo.png' width='300'/><br/>
 - The Ultimate Checked Proxy List -<br/> 
-Update every 10 minutes<br/>
+Update every 20 minutes<br/>
 HTTP(S), SOCKS4, SOCKS5<br/>
 (WITH MIX/GLOBAL/COUNTRY SPECIFIC RESULT)<br/>
 <a href="https://rei.my.id/proxylist"><i>HTTPS://REI.MY.ID/PROXYLIST</i></a>
